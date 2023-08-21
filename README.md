@@ -18,3 +18,6 @@ This program was able to use functions as a dereference to main.c
 
 ## array.c
 Made a program with different array and traversed through the array with a loop and display memory address of each component of the array
+
+## p2p.c
+This is a program that introduces the pointer to pointer in C.
